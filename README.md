@@ -10,3 +10,8 @@ We conducted a usability study for the following tasks:
 - Look at the overall homeless occupancy trends across the province
 - Understand overnight shelter occupancy trends and Capacity for cities in Alberta
 - Compare and Analyse the overnight shelter occupancy and unemployment rates in each city.
+
+<!-- 
+🗓️ Note: This project was originally completed in 2021 as part of an academic/research initiative for ITEC 5207 at Carleton University.
+The code and documentation were uploaded to GitHub in 2025 for portfolio and archival purposes.
+-->
